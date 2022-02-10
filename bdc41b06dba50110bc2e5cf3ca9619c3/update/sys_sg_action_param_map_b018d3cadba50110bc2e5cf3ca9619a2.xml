@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Location)">a418d3cadba50110bc2e5cf3ca961932</button>
+        <item_parameter display_value="Location lat_long_error">e418d3cadba50110bc2e5cf3ca961930</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>vavilala@outlook.com</sys_created_by>
+        <sys_created_on>2022-02-10 06:09:08</sys_created_on>
+        <sys_id>b018d3cadba50110bc2e5cf3ca9619a2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e418d3cadba50110bc2e5cf3ca961930</sys_name>
+        <sys_package display_value="Location" source="x_42767_location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b018d3cadba50110bc2e5cf3ca9619a2</sys_update_name>
+        <sys_updated_by>vavilala@outlook.com</sys_updated_by>
+        <sys_updated_on>2022-02-10 06:09:08</sys_updated_on>
+        <ui_parameter display_value="Lat long error">ec18d3cadba50110bc2e5cf3ca96199a</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

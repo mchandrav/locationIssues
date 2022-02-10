@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Issue" max_length="40" name="x_42767_location_issue" type="collection">
+        <element label="Description" max_length="4000" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Room" max_length="32" name="room" reference="cmn_location" type="reference"/>
+        <element label="Short Description" max_length="100" name="short_description" type="string"/>
+        <index name="index">
+            <element name="room"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_42767_location_issue">x_42767_location_issue</category>
+        <maximum_digits>8</maximum_digits>
+        <number>1000</number>
+        <prefix>LOCISS</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>vavilala@outlook.com</sys_created_by>
+        <sys_created_on>2022-02-10 06:05:27</sys_created_on>
+        <sys_id>3637174adba50110bc2e5cf3ca9619e0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LOCISS</sys_name>
+        <sys_package display_value="Location" source="x_42767_location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_scope>
+        <sys_update_name>sys_number_3637174adba50110bc2e5cf3ca9619e0</sys_update_name>
+        <sys_updated_by>vavilala@outlook.com</sys_updated_by>
+        <sys_updated_on>2022-02-10 06:05:27</sys_updated_on>
+    </sys_number>
+</record_update>

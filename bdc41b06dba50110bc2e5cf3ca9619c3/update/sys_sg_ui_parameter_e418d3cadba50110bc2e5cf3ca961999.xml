@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_parameter">
+    <sys_sg_ui_parameter action="INSERT_OR_UPDATE">
+        <button display_value="Edit Button (Location)">a418d3cadba50110bc2e5cf3ca961932</button>
+        <button_parent_table>cmn_location</button_parent_table>
+        <carried>false</carried>
+        <constant/>
+        <default_value/>
+        <default_value_type>source_field</default_value_type>
+        <field_name>country</field_name>
+        <input_source>user</input_source>
+        <input_style>inline</input_style>
+        <input_type>text</input_type>
+        <mandatory>false</mandatory>
+        <max_entries/>
+        <multi_entry>false</multi_entry>
+        <multi_select>false</multi_select>
+        <name>Country</name>
+        <order/>
+        <parameter_type>button</parameter_type>
+        <placeholder/>
+        <screen/>
+        <search_type>starts_with</search_type>
+        <source_field>country</source_field>
+        <sys_class_name>sys_sg_ui_parameter</sys_class_name>
+        <sys_created_by>vavilala@outlook.com</sys_created_by>
+        <sys_created_on>2022-02-10 06:09:08</sys_created_on>
+        <sys_id>e418d3cadba50110bc2e5cf3ca961999</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Country</sys_name>
+        <sys_package display_value="Location" source="x_42767_location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Location">bdc41b06dba50110bc2e5cf3ca9619c3</sys_scope>
+        <sys_update_name>sys_sg_ui_parameter_e418d3cadba50110bc2e5cf3ca961999</sys_update_name>
+        <sys_updated_by>vavilala@outlook.com</sys_updated_by>
+        <sys_updated_on>2022-02-10 06:09:08</sys_updated_on>
+        <table_name>cmn_location</table_name>
+        <virtual_field_value>false</virtual_field_value>
+    </sys_sg_ui_parameter>
+    <sys_translated_text action="delete_multiple" query="documentkey=e418d3cadba50110bc2e5cf3ca961999"/>
+</record_update>
